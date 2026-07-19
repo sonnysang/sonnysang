@@ -74,7 +74,7 @@ Before moving into data engineering and analytics, I spent over a decade conduct
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://github.com/sonnysang
+- LinkedIn: https://www.linkedin.com/in/ysang/
 - GitHub: https://github.com/sonnysang
 
 ---
